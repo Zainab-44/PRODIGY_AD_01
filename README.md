@@ -12,11 +12,19 @@ Featuring a simple and elegant design, creating a visually pleasing and user-fri
 ## Deployment & Run
 
 To deploy this project first clean it by running:
-bash
+
+```bash
   flutter clean
+```
+
 To rebuild project run:
-bash
+
+```bash
   flutter pub get
+```
+
 To launch application run:
-bash
+
+```bash
   flutter run
+```
