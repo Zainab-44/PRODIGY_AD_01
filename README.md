@@ -1,16 +1,22 @@
-# prodigy_ad_01
+# Calculator app 
 
-A new Flutter project.
 
-## Getting Started
+Featuring a simple and elegant design, creating a visually pleasing and user-friendly experience of Calculator App.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot]([https://raw.githubusercontent.com/Hammad2295/smarthomeui/master/demo-ss.JPG](https://raw.githubusercontent.com/Zainab-44/prodigy_ad_01/main/calculator%20ss.PNG))
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Deployment & Run
+
+To deploy this project first clean it by running:
+bash
+  flutter clean
+To rebuild project run:
+bash
+  flutter pub get
+To launch application run:
+bash
+  flutter run
