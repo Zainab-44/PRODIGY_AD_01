@@ -1,4 +1,4 @@
-# Calculator app 
+# Calculator app
 
 
 Featuring a simple and elegant design, creating a visually pleasing and user-friendly experience of Calculator App.
